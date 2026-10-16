@@ -1,0 +1,34 @@
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated evaluation results
+output/
+
+# Temporary files and logs
+*.log
+*.tmp
+.cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# IDE settings
+.idea/
+.vscode/

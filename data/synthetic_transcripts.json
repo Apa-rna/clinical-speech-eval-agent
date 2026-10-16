@@ -1,0 +1,596 @@
+{
+  "transcript_pairs": [
+    {
+      "id": "pair_001",
+      "audio_file": "audio_nicu_001.wav",
+      "category": "NICU",
+      "reference": "Nursing staff documented NICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented NICU admission at zero three hundred hours.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_002",
+      "audio_file": "audio_nicu_002.wav",
+      "category": "NICU",
+      "reference": "Doctor ordered surfactant for patient in NICU with necrotizing enterocolitis.",
+      "recognized": "Doctor ordered surfactant for patient in NICU with necrotizing enterocolitis.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_003",
+      "audio_file": "audio_nicu_003.wav",
+      "category": "NICU",
+      "reference": "Lab results reviewed by NICU attending physician this morning.",
+      "recognized": "Lab results reviewed by NICU attending physician this morning.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_004",
+      "audio_file": "audio_nicu_004.wav",
+      "category": "NICU",
+      "reference": "Patient transferred from NICU following stabilization of retinopathy of prematurity.",
+      "recognized": "Patient transferred from NICU following stabilization of retinopathy of prematurity.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_005",
+      "audio_file": "audio_nicu_005.wav",
+      "category": "NICU",
+      "reference": "Doctor ordered surfactant for patient in NICU with bronchopulmonary dysplasia.",
+      "recognized": "Doctor ordered surfactant for patient in NICO with bronchopulmonary dysplasia.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_006",
+      "audio_file": "audio_nicu_006.wav",
+      "category": "NICU",
+      "reference": "Doctor ordered gentamicin for patient in NICU with necrotizing enterocolitis.",
+      "recognized": "Doctor ordered gentamicin for patient in NIK U with necrotizing enterocolitis.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_007",
+      "audio_file": "audio_nicu_007.wav",
+      "category": "NICU",
+      "reference": "Doctor ordered caffeine citrate for patient in NICU with apnea of prematurity.",
+      "recognized": "Doctor ordered caffeine citrate for patient in NIK U with apnea of prematurity.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_008",
+      "audio_file": "audio_nicu_008.wav",
+      "category": "NICU",
+      "reference": "Doctor ordered ampicillin for patient in NICU with apnea of prematurity.",
+      "recognized": "Doctor ordered ampicillin for patient in NICK Y... with apnea of prematurity.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_009",
+      "audio_file": "audio_nicu_009.wav",
+      "category": "NICU",
+      "reference": "NICU team performed morning rounds and updated care plan.",
+      "recognized": "NICO team performed morning roun... and updated care plan.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_010",
+      "audio_file": "audio_nicu_010.wav",
+      "category": "NICU",
+      "reference": "Patient transferred from NICU following stabilization of apnea of prematurity.",
+      "recognized": "Patient transferred from N... U following stabilization of apnea of prematurity.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_011",
+      "audio_file": "audio_cvicu_011.wav",
+      "category": "CVICU",
+      "reference": "Lab results reviewed by CVICU attending physician this morning.",
+      "recognized": "Lab results reviewed by CVICU attending physician this morning.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_012",
+      "audio_file": "audio_cvicu_012.wav",
+      "category": "CVICU",
+      "reference": "Lab results reviewed by CVICU attending physician this morning.",
+      "recognized": "Lab results reviewed by CVICU attending physician this morning.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_013",
+      "audio_file": "audio_cvicu_013.wav",
+      "category": "CVICU",
+      "reference": "Patient transferred from CVICU following stabilization of low cardiac output syndrome.",
+      "recognized": "Patient transferred from CVICU following stabilization of low cardiac output syndrome.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_014",
+      "audio_file": "audio_cvicu_014.wav",
+      "category": "CVICU",
+      "reference": "Patient transferred from CVICU following stabilization of low cardiac output syndrome.",
+      "recognized": "Patient transferred from CVICU following stabilization of low cardiac output syndrome.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_015",
+      "audio_file": "audio_cvicu_015.wav",
+      "category": "CVICU",
+      "reference": "CVICU team performed morning rounds and updated care plan.",
+      "recognized": "CIVIC U team performed morning rounds and updated care plan.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_016",
+      "audio_file": "audio_cvicu_016.wav",
+      "category": "CVICU",
+      "reference": "Doctor ordered vasopressin for patient in CVICU with ventricular tachycardia.",
+      "recognized": "Doctor ordered vasopressin for patient in CIVIC U with ventricular tachycardia.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_017",
+      "audio_file": "audio_cvicu_017.wav",
+      "category": "CVICU",
+      "reference": "Nursing staff documented CVICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented SEE VIK YOU admission at zero three hundred hours.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_018",
+      "audio_file": "audio_cvicu_018.wav",
+      "category": "CVICU",
+      "reference": "Doctor ordered norepinephrine for patient in CVICU with low cardiac output syndrome.",
+      "recognized": "Doctor ordered norepinephrine for patient in SEE VIKU wi... low cardiac output syndrome.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_019",
+      "audio_file": "audio_cvicu_019.wav",
+      "category": "CVICU",
+      "reference": "Nursing staff documented CVICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented SEE VIK Y... admission at zero three hundred hours.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_020",
+      "audio_file": "audio_cvicu_020.wav",
+      "category": "CVICU",
+      "reference": "CVICU team performed morning rounds and updated care plan.",
+      "recognized": "CIVIC U te... performed morning rounds and updated care plan.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_021",
+      "audio_file": "audio_picu_021.wav",
+      "category": "PICU",
+      "reference": "Doctor ordered mannitol for patient in PICU with diabetic ketoacidosis.",
+      "recognized": "Doctor ordered mannitol for patient in PICU with diabetic ketoacidosis.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_022",
+      "audio_file": "audio_picu_022.wav",
+      "category": "PICU",
+      "reference": "PICU team performed morning rounds and updated care plan.",
+      "recognized": "PICU team performed morning rounds and updated care plan.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_023",
+      "audio_file": "audio_picu_023.wav",
+      "category": "PICU",
+      "reference": "Doctor ordered mannitol for patient in PICU with diabetic ketoacidosis.",
+      "recognized": "Doctor ordered mannitol for patient in PICU with diabetic ketoacidosis.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_024",
+      "audio_file": "audio_picu_024.wav",
+      "category": "PICU",
+      "reference": "Lab results reviewed by PICU attending physician this morning.",
+      "recognized": "Lab results reviewed by PICU attending physician this morning.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_025",
+      "audio_file": "audio_picu_025.wav",
+      "category": "PICU",
+      "reference": "Nursing staff documented PICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented PEE KU admission at zero three hundred hours.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_026",
+      "audio_file": "audio_picu_026.wav",
+      "category": "PICU",
+      "reference": "Patient transferred from PICU following stabilization of diabetic ketoacidosis.",
+      "recognized": "Patient transferred from PIKU following stabilization of diabetic ketoacidosis.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_027",
+      "audio_file": "audio_picu_027.wav",
+      "category": "PICU",
+      "reference": "Doctor ordered fentanyl for patient in PICU with status epilepticus.",
+      "recognized": "Doctor ordered fentanyl for patient in P I C U with status epilepticus.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_028",
+      "audio_file": "audio_picu_028.wav",
+      "category": "PICU",
+      "reference": "PICU team performed morning rounds and updated care plan.",
+      "recognized": "P I C U team performed morning rounds and updated ca... plan.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_029",
+      "audio_file": "audio_picu_029.wav",
+      "category": "PICU",
+      "reference": "Patient transferred from PICU following stabilization of acute respiratory distress syndrome.",
+      "recognized": "Patient transferred from PIK YOU following stabilization o... acute respiratory distress syndrome.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_030",
+      "audio_file": "audio_picu_030.wav",
+      "category": "PICU",
+      "reference": "PICU team performed morning rounds and updated care plan.",
+      "recognized": "PEE KU team performed morning roun... and updated care plan.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_031",
+      "audio_file": "audio_icu_031.wav",
+      "category": "ICU",
+      "reference": "Lab results reviewed by ICU attending physician this morning.",
+      "recognized": "Lab results reviewed by ICU attending physician this morning.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_032",
+      "audio_file": "audio_icu_032.wav",
+      "category": "ICU",
+      "reference": "Nursing staff documented ICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented ICU admission at zero three hundred hours.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_033",
+      "audio_file": "audio_icu_033.wav",
+      "category": "ICU",
+      "reference": "Nursing staff documented ICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented ICU admission at zero three hundred hours.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_034",
+      "audio_file": "audio_icu_034.wav",
+      "category": "ICU",
+      "reference": "Lab results reviewed by ICU attending physician this morning.",
+      "recognized": "Lab results reviewed by ICU attending physician this morning.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_035",
+      "audio_file": "audio_icu_035.wav",
+      "category": "ICU",
+      "reference": "Patient transferred from ICU following stabilization of acute kidney injury.",
+      "recognized": "Patient transferred from I SEE YOU following stabilization of acute kidney injury.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_036",
+      "audio_file": "audio_icu_036.wav",
+      "category": "ICU",
+      "reference": "Doctor ordered piperacillin tazobactam for patient in ICU with acute kidney injury.",
+      "recognized": "Doctor ordered piperacillin tazobactam for patient in I SEE YOU with acute kidney injury.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_037",
+      "audio_file": "audio_icu_037.wav",
+      "category": "ICU",
+      "reference": "Patient transferred from ICU following stabilization of septic shock.",
+      "recognized": "Patient transferred from I C U following stabilization of septic shock.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_038",
+      "audio_file": "audio_icu_038.wav",
+      "category": "ICU",
+      "reference": "Lab results reviewed by ICU attending physician this morning.",
+      "recognized": "Lab results reviewed by I... SEE YOU attending physician this morning.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_039",
+      "audio_file": "audio_icu_039.wav",
+      "category": "ICU",
+      "reference": "Nursing staff documented ICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented I C U admission at ze... three hundred hours.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_040",
+      "audio_file": "audio_icu_040.wav",
+      "category": "ICU",
+      "reference": "Nursing staff documented ICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented ICE YOU admission at ze... three hundred hours.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_041",
+      "audio_file": "audio_huc_041.wav",
+      "category": "HUC",
+      "reference": "Patient transferred from HUC following stabilization of imaging coordination.",
+      "recognized": "Patient transferred from HUC following stabilization of imaging coordination.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_042",
+      "audio_file": "audio_huc_042.wav",
+      "category": "HUC",
+      "reference": "Patient transferred from HUC following stabilization of admission order processing.",
+      "recognized": "Patient transferred from HUC following stabilization of admission order processing.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_043",
+      "audio_file": "audio_huc_043.wav",
+      "category": "HUC",
+      "reference": "Lab results reviewed by HUC attending physician this morning.",
+      "recognized": "Lab results reviewed by HUC attending physician this morning.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_044",
+      "audio_file": "audio_huc_044.wav",
+      "category": "HUC",
+      "reference": "Patient transferred from HUC following stabilization of admission order processing.",
+      "recognized": "Patient transferred from HUC following stabilization of admission order processing.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_045",
+      "audio_file": "audio_huc_045.wav",
+      "category": "HUC",
+      "reference": "Doctor ordered heparin flush for patient in HUC with discharge planning.",
+      "recognized": "Doctor ordered heparin flush for patient in HUCK with discharge planning.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_046",
+      "audio_file": "audio_huc_046.wav",
+      "category": "HUC",
+      "reference": "Patient transferred from HUC following stabilization of discharge planning.",
+      "recognized": "Patient transferred from HOOK following stabilization of discharge planning.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_047",
+      "audio_file": "audio_huc_047.wav",
+      "category": "HUC",
+      "reference": "Doctor ordered potassium chloride for patient in HUC with critical lab value notification.",
+      "recognized": "Doctor ordered potassium chloride for patient in HOOK with critical lab value notification.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_048",
+      "audio_file": "audio_huc_048.wav",
+      "category": "HUC",
+      "reference": "HUC team performed morning rounds and updated care plan.",
+      "recognized": "HUK team performed morni... rounds and updated care plan.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_049",
+      "audio_file": "audio_huc_049.wav",
+      "category": "HUC",
+      "reference": "HUC team performed morning rounds and updated care plan.",
+      "recognized": "H U C team performed morning rounds and updat... care plan.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_050",
+      "audio_file": "audio_huc_050.wav",
+      "category": "HUC",
+      "reference": "Patient transferred from HUC following stabilization of imaging coordination.",
+      "recognized": "Patient transferred fr... HUCK following stabilization of imaging coordination.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_051",
+      "audio_file": "audio_ed_051.wav",
+      "category": "ED",
+      "reference": "Patient transferred from ED following stabilization of anaphylaxis.",
+      "recognized": "Patient transferred from ED following stabilization of anaphylaxis.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_052",
+      "audio_file": "audio_ed_052.wav",
+      "category": "ED",
+      "reference": "Doctor ordered morphine for patient in ED with traumatic brain injury.",
+      "recognized": "Doctor ordered morphine for patient in ED with traumatic brain injury.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_053",
+      "audio_file": "audio_ed_053.wav",
+      "category": "ED",
+      "reference": "ED team performed morning rounds and updated care plan.",
+      "recognized": "ED team performed morning rounds and updated care plan.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_054",
+      "audio_file": "audio_ed_054.wav",
+      "category": "ED",
+      "reference": "ED team performed morning rounds and updated care plan.",
+      "recognized": "ED team performed morning rounds and updated care plan.",
+      "expected_wer_range": "clean"
+    },
+    {
+      "id": "pair_055",
+      "audio_file": "audio_ed_055.wav",
+      "category": "ED",
+      "reference": "ED team performed morning rounds and updated care plan.",
+      "recognized": "E. D. team performed morning rounds and updated care plan.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_056",
+      "audio_file": "audio_ed_056.wav",
+      "category": "ED",
+      "reference": "Lab results reviewed by ED attending physician this morning.",
+      "recognized": "Lab results reviewed by E D attending physician this morning.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_057",
+      "audio_file": "audio_ed_057.wav",
+      "category": "ED",
+      "reference": "Doctor ordered morphine for patient in ED with ST elevation myocardial infarction.",
+      "recognized": "Doctor ordered morphine for patient in EDDY with ST elevation myocardial infarction.",
+      "expected_wer_range": "borderline"
+    },
+    {
+      "id": "pair_058",
+      "audio_file": "audio_ed_058.wav",
+      "category": "ED",
+      "reference": "Doctor ordered adenosine for patient in ED with anaphylaxis.",
+      "recognized": "Doctor ordered adenosi... for patient in EDDY with anaphylaxis.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_059",
+      "audio_file": "audio_ed_059.wav",
+      "category": "ED",
+      "reference": "Patient transferred from ED following stabilization of traumatic brain injury.",
+      "recognized": "Patient transferred from EDDY followi... stabilization of traumatic brain injury.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_060",
+      "audio_file": "audio_ed_060.wav",
+      "category": "ED",
+      "reference": "ED team performed morning rounds and updated care plan.",
+      "recognized": "E. D. team performed morning rounds and updat... care plan.",
+      "expected_wer_range": "failed"
+    },
+    {
+      "id": "pair_061",
+      "audio_file": "audio_nicu_001.wav",
+      "category": "NICU",
+      "reference": "Nursing staff documented NICU admission at zero three hundred hours.",
+      "recognized": "Nursing staff documented NICU admission at zero three hundred hours.",
+      "expected_wer_range": "clean"
+    }
+  ],
+  "knowledge_base": [
+    {
+      "id": "kb_001",
+      "category": "NICU",
+      "title": "NICU \u2014 Neonatal Intensive Care Unit",
+      "content": "NICU stands for Neonatal Intensive Care Unit. It provides care for premature or critically ill newborns. Common terms include corrected gestational age (CGA), continuous positive airway pressure (CPAP), bronchopulmonary dysplasia (BPD), necrotizing enterocolitis (NEC), and retinopathy of prematurity (ROP). NICU patients may require mechanical ventilation, total parenteral nutrition (TPN), and phototherapy."
+    },
+    {
+      "id": "kb_002",
+      "category": "CVICU",
+      "title": "CVICU \u2014 Cardiovascular Intensive Care Unit",
+      "content": "CVICU stands for Cardiovascular Intensive Care Unit. It handles post-cardiac surgery and severe cardiac conditions. Key terms: coronary artery bypass graft (CABG), intra-aortic balloon pump (IABP), extracorporeal membrane oxygenation (ECMO), left ventricular assist device (LVAD), atrial fibrillation (AFib), ejection fraction (EF), and pulmonary capillary wedge pressure (PCWP)."
+    },
+    {
+      "id": "kb_003",
+      "category": "PICU",
+      "title": "PICU \u2014 Pediatric Intensive Care Unit",
+      "content": "PICU stands for Pediatric Intensive Care Unit. It cares for critically ill children. Common terms include respiratory syncytial virus (RSV), Glasgow Coma Scale (GCS), status epilepticus (SE), diabetic ketoacidosis (DKA), septic shock, and acute respiratory distress syndrome (ARDS). Sedation protocols and weight-based dosing are standard."
+    },
+    {
+      "id": "kb_004",
+      "category": "ICU",
+      "title": "ICU \u2014 Intensive Care Unit",
+      "content": "ICU stands for Intensive Care Unit. General critical care terminology includes mean arterial pressure (MAP), positive end-expiratory pressure (PEEP), fraction of inspired oxygen (FiO2), sequential organ failure assessment (SOFA), central venous pressure (CVP), blood urea nitrogen (BUN), creatinine clearance (CrCl), and vasopressors such as norepinephrine."
+    },
+    {
+      "id": "kb_005",
+      "category": "HUC",
+      "title": "HUC \u2014 Health Unit Coordinator",
+      "content": "HUC stands for Health Unit Coordinator (also called unit clerk or ward clerk). Responsibilities include managing physician orders, coordinating admissions, discharges and transfers (ADT), maintaining medical records (MR), processing lab requisitions, and communicating with nursing staff. HUC works closely with the charge nurse and handles EMR (Electronic Medical Records) entry."
+    },
+    {
+      "id": "kb_006",
+      "category": "ED",
+      "title": "ED \u2014 Emergency Department",
+      "content": "ED stands for Emergency Department. Key acronyms include triage levels (ESI 1\u20135), chief complaint (CC), history of present illness (HPI), mechanism of injury (MOI), point-of-care testing (POCT), rapid sequence intubation (RSI), emergency medical technician (EMT), and trauma activation. STEMI (ST-elevation myocardial infarction) and stroke codes are time-critical ED events."
+    },
+    {
+      "id": "kb_007",
+      "category": "NICU",
+      "title": "NICU \u2014 Respiratory Support Terminology",
+      "content": "NICU respiratory support includes high-flow nasal cannula (HFNC), nasal intermittent positive pressure ventilation (NIPPV), and surfactant replacement therapy. Oxygen saturation targets (SpO2) are typically 91\u201395% in premature infants. Apnea of prematurity (AOP) is treated with caffeine citrate. Pulse oximetry and arterial blood gas (ABG) monitoring are standard."
+    },
+    {
+      "id": "kb_008",
+      "category": "CVICU",
+      "title": "CVICU \u2014 Hemodynamic Monitoring",
+      "content": "Hemodynamic monitoring in CVICU includes pulmonary artery catheter (PAC) measurements: cardiac output (CO), cardiac index (CI), systemic vascular resistance (SVR), and mixed venous oxygen saturation (SvO2). Near-infrared spectroscopy (NIRS) monitors cerebral and somatic oxygenation. Vasoactive medications include milrinone, dobutamine, and vasopressin."
+    },
+    {
+      "id": "kb_009",
+      "category": "ED",
+      "title": "ED \u2014 Trauma and Resuscitation",
+      "content": "ED trauma resuscitation follows ATLS (Advanced Trauma Life Support) protocols. Primary survey: airway, breathing, circulation, disability, exposure (ABCDE). Secondary survey follows. Damage control resuscitation (DCR) uses balanced blood products. FAST exam (Focused Assessment with Sonography in Trauma) detects free fluid. GCS below 8 typically indicates need for airway protection."
+    },
+    {
+      "id": "kb_010",
+      "category": "ICU",
+      "title": "ICU \u2014 Sepsis and Infection",
+      "content": "ICU sepsis management follows Surviving Sepsis Campaign (SSC) bundles. SIRS criteria: temperature, heart rate, respiratory rate, WBC count. Septic shock requires vasopressors to maintain MAP \u226565 mmHg and serum lactate >2 mmol/L. Broad-spectrum antibiotics (BSA) are initiated early. Procalcitonin (PCT) guides antibiotic de-escalation. Blood cultures (BC) are drawn before antibiotic administration."
+    },
+    {
+      "id": "kb_011",
+      "category": "PICU",
+      "title": "PICU \u2014 Neurological Assessment",
+      "content": "PICU neurological assessment uses the Glasgow Coma Scale (GCS) and Pediatric GCS for younger children. Intracranial pressure (ICP) monitoring may be used in traumatic brain injury (TBI). Electroencephalogram (EEG) monitors for subclinical seizures. Cerebral perfusion pressure (CPP) = MAP - ICP, target >50 mmHg in children. Hyperosmolar therapy with mannitol or hypertonic saline reduces cerebral edema."
+    },
+    {
+      "id": "kb_012",
+      "category": "HUC",
+      "title": "HUC \u2014 Documentation and Order Processing",
+      "content": "HUC documentation responsibilities include transcribing physician orders into the EMR, printing discharge instructions, coordinating dietary orders (NPO, clear liquids, etc.), scheduling imaging (CT, MRI, X-ray) and lab draws. Kardex maintenance and shift report preparation are standard duties. HUC must flag STAT orders and critical lab values (CLV) to the nurse immediately."
+    },
+    {
+      "id": "kb_013",
+      "category": "ICU",
+      "title": "ICU \u2014 Ventilator Management",
+      "content": "ICU ventilator management uses lung-protective ventilation: tidal volume (Vt) 6 mL/kg IBW, plateau pressure (Pplat) <30 cmH2O, and adequate PEEP. Ventilator modes include assist-control (AC), synchronized intermittent mandatory ventilation (SIMV), and pressure support ventilation (PSV). Spontaneous breathing trials (SBT) assess readiness for extubation. Ventilator-associated pneumonia (VAP) bundles are standard of care."
+    },
+    {
+      "id": "kb_014",
+      "category": "CVICU",
+      "title": "CVICU \u2014 Post-Cardiac Surgery Care",
+      "content": "Post-CABG care in CVICU monitors for complications: atrial fibrillation (most common arrhythmia), low cardiac output syndrome (LCOS), bleeding requiring re-exploration, and pericardial effusion. Chest tube output is closely monitored. Protamine reversal of heparin is used intraoperatively. Early mobilisation and respiratory physiotherapy reduce complications. INR and ACT guide anticoagulation management."
+    },
+    {
+      "id": "kb_015",
+      "category": "NICU",
+      "title": "NICU \u2014 Infection and Pharmacology",
+      "content": "NICU infection prevention includes hand hygiene, central line-associated bloodstream infection (CLABSI) bundles, and cohorting of infants with RSV or other infections. Common medications: ampicillin and gentamicin for empiric sepsis coverage, fluconazole prophylaxis in VLBW infants, indomethacin or ibuprofen for patent ductus arteriosus (PDA) closure. Total daily fluid (TDF) is calculated by weight in mL/kg/day."
+    }
+  ],
+  "metadata": {
+    "total_pairs": 61,
+    "categories": [
+      "NICU",
+      "CVICU",
+      "PICU",
+      "ICU",
+      "HUC",
+      "ED"
+    ],
+    "kb_documents": 15
+  }
+}
